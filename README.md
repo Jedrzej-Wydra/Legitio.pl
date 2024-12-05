@@ -1,7 +1,7 @@
 # Legitio.pl
 authors: Xenstats Team
 
-The product: [legitio.pl](https:\\legitio.pl)
+The product: [legitio.pl](https:\\www.legitio.pl)
 
 ## What is this product?
 Legitio is an advanced AI-powered legal assistant available 24/7, offering fast and confidential advice in the field of civil law. Developed by Polish experts in law, mathematics, software engineering, and AI, Legitio analyzes user queries in real-time, providing precise answers based on current legal regulations. This innovative tool allows users to access legal help quickly without the need to schedule appointments with a lawyer.
